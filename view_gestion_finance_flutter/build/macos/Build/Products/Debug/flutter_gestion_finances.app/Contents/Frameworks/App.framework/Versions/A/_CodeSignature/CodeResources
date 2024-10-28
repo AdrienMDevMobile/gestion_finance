@@ -10,19 +10,19 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		21tVqbIV90TbglF4ZJhNBz8uj4w=
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		vyGp6PvFo4RvsFtPoIWeCReyIC8=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		+D1xbIOooc3ypce1+jh+mmLy1J0=
 		</data>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
-		Yp9Y/1CtRVfPwrUbPuK83lQwmGw=
+		KayvGhaCAunlcrd2Ibx2eK8EYIM=
 		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,11 +34,7 @@
 		</data>
 		<key>Resources/flutter_assets/kernel_blob.bin</key>
 		<data>
-		9453j9gd6D3f6izpuGrffvScm4o=
-		</data>
-		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
-		<data>
-		Bvk+P1ykE1PGRdktwgwDyz6AOqM=
+		cIeDAMBCc3MqZRU8rJlycueGjFQ=
 		</data>
 		<key>Resources/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -62,28 +58,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			9WbMb8zGVzZcAZeszzp9b4D4Ugn/Zm/3dPTcvFJKqEI=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			KLHrKz0uGtYLjIsPkQCxzL9JL3+pf1vrtR6pfnOSbn0=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WakJpAClTne3nkz5TQNcfdTHwP3ETultd3V0ADC4LX8=
+			sd3YgOf4nvDyALjsYnntQFoxQaJ/UNuSkb8MyVfW/I4=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -104,14 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCdo4TgGk86p2XmBcPaY179mvOuoXW8C4YWX7lqjOkE=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Z8RP6Rg7AC553ef2l34piGYcmj5KPF/OloeH79vtgjw=
+			MaFS0NixfTsYUVuO8iaa7GgPTs9zRRymesGaomSJhj0=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/shaders/ink_sparkle.frag</key>
