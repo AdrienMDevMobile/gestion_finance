@@ -11,8 +11,8 @@ sealed class SpendingsState extends Equatable {
 }
 
 final class SpendingsInitial extends SpendingsState {
-  const SpendingsInitial(super.spendings)
+  const SpendingsInitial(super.spendings);
 
   @override
-  String toString() => 'Initial state';
+  String toString() => spendings.toString();
 }

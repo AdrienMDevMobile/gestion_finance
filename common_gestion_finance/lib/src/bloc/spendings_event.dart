@@ -5,6 +5,8 @@ sealed class SpendingsEvent {
   const SpendingsEvent();
 }
 
-final class AddSpending extends SpendingsEvent {
-  const AddSpending();
+final class AddSpendingEvent extends SpendingsEvent {
+  const AddSpendingEvent({required this.value, required this.name});
+  final int value;
+  final String name;
 }
